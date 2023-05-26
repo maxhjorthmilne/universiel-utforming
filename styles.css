@@ -1,0 +1,47 @@
+.navbar {
+    background-color: black;
+    padding: 10px 20px;
+  }
+
+  a{
+    color: white;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-item {
+    margin: 0 10px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #666;
+  }
+
+  h1{
+    margin: auto;
+    text-align: center;
+  }
+
+  .omOss{
+    margin: 0 200px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .logo{
+    color: white;
+  }
